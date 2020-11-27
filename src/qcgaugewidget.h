@@ -29,6 +29,7 @@
 #ifndef QCGAUGEWIDGET_H
 #define QCGAUGEWIDGET_H
 
+#include <QPainterPath>
 #include <QWidget>
 #include <QPainter>
 #include <QObject>
